@@ -1,0 +1,53 @@
+[28/4/2026, 11:47:55] El archivo tiene 1040581 caracteres
+
+[28/4/2026, 11:50:56]
+Caracteres: 1040581
+Palabras: 187009
+Top 10 palabras:
+- no: 3133
+- se: 2567
+- su: 1861
+- mas: 1182
+- si: 1106
+- don: 1073
+- dijo: 878
+- quijote: 845
+- tan: 761
+- sancho: 691
+
+
+[28/4/2026, 11:56:15]
+Caracteres: 1040581
+Palabras: 77774
+Top 10 palabras:
+- quijote: 845
+- sancho: 691
+- habia: 672
+- vuestra: 459
+- respondio: 448
+- senor: 419
+- merced: 400
+- caballero: 352
+- hacer: 318
+- aquel: 315
+
+
+=== RESULTADO 28/4/2026, 12:18:54 ===
+
+TEXTO LIMPIO:
+don quijote de la mancha miguel de cervantes saavedra primera parte capitulo 1 que trata de la condicion y ejercicio del famoso hidalgo d quijote de la mancha en un lugar de la mancha de cuyo nombre n...
+
+TOTAL PALABRAS (>4 letras): 77774
+
+TOP 10 PALABRAS:
+- quijote: 845
+- porque: 772
+- sancho: 691
+- habia: 672
+- vuestra: 459
+- respondio: 448
+- todos: 433
+- quien: 432
+- senor: 419
+- donde: 406
+
